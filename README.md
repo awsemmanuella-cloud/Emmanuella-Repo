@@ -13,7 +13,7 @@ Just like a LinkedIn bio tells you about a person, this repo tells you about my 
 
 ---
 
-##  What You’ll Find Here  
+##  What You will Find Here
 - `hello.txt` → my first Git-tracked file   
 - Future practice projects (Docker, AWS configs, automation scripts)  
 - Notes & documentation to track my progress  
